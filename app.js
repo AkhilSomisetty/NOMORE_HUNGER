@@ -27,5 +27,5 @@ document.getElementById('food-form').addEventListener('submit', function(event) 
     document.getElementById('food-details').value = '';
     document.getElementById('contact-info').value = '';
 
-    alert("Food item submitted successfully!");
+
 });
